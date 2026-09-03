@@ -1,4 +1,4 @@
-## Ongoing projects
+## My projects
 
 - [TuxBooks](https://github.com/tuunanet/tuxbooks): PDF and ePUB library and reader for Linux (React + Rust).
 
