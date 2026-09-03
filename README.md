@@ -1,6 +1,6 @@
 ## Ongoing projects
 
-- [TuxBooks](https://github.com/tuunanet/tuxbooks): PDF and ePUB library and reader for Linux.
+- [TuxBooks](https://github.com/tuunanet/tuxbooks): PDF and ePUB library and reader for Linux (React + Rust).
 
 <!--
 **tuunanet/tuunanet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
