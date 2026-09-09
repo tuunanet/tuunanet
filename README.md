@@ -1,6 +1,15 @@
 ## My projects
 
-- [TuxBooks](https://github.com/tuunanet/tuxbooks): PDF and ePUB library and reader for Linux.
+### <img src="https://github.com/user-attachments/assets/75433c60-c640-4472-bed5-2dc123a4a0d4" width="42" valign="middle"> [TuxBooks](https://github.com/tuunanet/tuxbooks)
+
+PDF and ePUB library and reader for Linux.  
+`Rust` `React` `TypeScript` `Electron`
+
+<p align="center">
+  <a href="https://github.com/tuunanet/tuxbooks">
+    View TuxBooks on GitHub →
+  </a>
+</p>
 
 <!--
 **tuunanet/tuunanet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
