@@ -5,12 +5,6 @@
 PDF and ePUB library and reader for Linux.  
 `Rust` `React` `TypeScript` `Electron`
 
-<p align="center">
-  <a href="https://github.com/tuunanet/tuxbooks">
-    View TuxBooks on GitHub →
-  </a>
-</p>
-
 <!--
 **tuunanet/tuunanet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
