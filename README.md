@@ -1,6 +1,6 @@
 ## My projects
 
-### <img src="https://github.com/user-attachments/assets/75433c60-c640-4472-bed5-2dc123a4a0d4" width="42" valign="middle"> [TuxBooks](https://github.com/tuunanet/tuxbooks)
+### :penguin: [TuxBooks](https://github.com/tuunanet/tuxbooks)
 
 PDF and ePUB library and reader for Linux.  
 `Rust` `React` `TypeScript` `Electron`
