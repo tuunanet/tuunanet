@@ -14,4 +14,4 @@
 - Ex-Silo AI Engineer, shifting to agentic engineering, spending looooots of time doing open-source development while looking for my next job.
 - My AI-Native stack right now: `opencode` + `mattpocock/skills` + `beads` for issue tracking + `trailhq/Graft` for contextual understanding + `pstack/unslop` skill.
 - Favorite LLMs: `GLM-5.3-flash`, and `DeepSeek V4.1-flash`. Haven't had the time to try `Jev` yet.
-- Pets: wwo cats called Sonic and Sacchan :)
+- Pets: have two cats called Sonic and Sacchan :)
