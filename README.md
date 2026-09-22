@@ -11,7 +11,7 @@
 
 ## About me
 
-- Ex-Silo AI Engineer, shifting to agentic engineering, right now spending looooots of time doing open-source development while looking for my next job.
+- Right now spending lots of time doing open-source development while looking for my next job. 6+ years of professional experience in software engineering.
 - My AI-Native stack right now: `opencode` + `mattpocock/skills` + `beads` for issue tracking + `trailhq/Graft` for contextual understanding + `pstack/unslop` skill.
 - Favorite LLMs: `GLM-5.3-flash`, and `DeepSeek V4.1-flash`.
 - Pets: have two cats called Sonic and Sacchan :)
