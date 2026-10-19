@@ -12,4 +12,3 @@
 ## About me
 
 - 6+ years of professional experience in various software engineering roles.
-- My AI-Native stack right now: `opencode` + `mattpocock/skills` + `beads` for issue tracking + `trailhq/Graft` for contextual understanding + `pstack/unslop` skill.
